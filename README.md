@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 My name is Chahande, Aditya.
+
 I am a student.
+
 I am interested in using this as public space to work on projects for fun.
+
 If you have any questions, please send me an email.
